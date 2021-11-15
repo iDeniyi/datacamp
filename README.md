@@ -1,2 +1,2 @@
-# binder
-Machine learning on binder jupyter notebook
+#datacamp
+Learning the basics of machine learning, following the datacamp lectures : https://app.datacamp.com/learn
